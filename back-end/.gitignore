@@ -1,0 +1,12 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos Docker não usados
+Dockerfile.dev
+Dockerfile.prod
+
+# Ignorar logs
+*.log
