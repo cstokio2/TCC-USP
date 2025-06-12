@@ -31,3 +31,5 @@ node_modules/
 
 # Ignorar arquivos Docker não usados
 Dockerfile
+Dockerfile.dev
+Dockerfile.prod
